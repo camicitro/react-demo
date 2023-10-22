@@ -1,8 +1,8 @@
 # Trabajo Práctico sobre React
 
-This t
+Para este TP estudiamos dos listas de videos. Siguiendo la segunda lista se realizó este proyecto.
 
 
-## Expanding the ESLint configuration
+## Vercel
 
-
+Despues utilicé Vercel para 
