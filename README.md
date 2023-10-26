@@ -5,4 +5,4 @@ Para este TP estudiamos dos listas de videos. Siguiendo la segunda lista se real
 
 ## Vercel
 
-Despues utilicé Vercel para 
+Despues utilicé Vercel para hacer el deploy de la aplicacion, el link al mismo es: https://react-demo-nine-kappa.vercel.app/
