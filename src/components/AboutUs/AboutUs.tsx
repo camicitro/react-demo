@@ -12,9 +12,9 @@ const AboutUs = () => {
             }}
             >
             <Card style={{ width: '18rem', margin: '10px' }}>
-                <Card.Img variant="top" src="src/assets/Images/lemonie.jpg" />
+                <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cuesta_del_obispo_01.jpg/271px-Cuesta_del_obispo_01.jpg" />
                 <Card.Body>
-                    <Card.Title>Lemonies</Card.Title>
+                    <Card.Title>Paisaje 1</Card.Title>
                     <Card.Text>
                     Some quick example text to build on the card title and make up the
                     bulk of the card's content.
@@ -22,9 +22,9 @@ const AboutUs = () => {
                 </Card.Body>
             </Card>
             <Card style={{ width: '18rem', margin: '10px' }}>
-                <Card.Img variant="top" src="src/assets/Images/brownie.jpg" />
+                <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Sasso_lungo_da_passo_pordoi.jpg/270px-Sasso_lungo_da_passo_pordoi.jpg" />
                 <Card.Body>
-                    <Card.Title>Brownies</Card.Title>
+                    <Card.Title>Paisaje 2</Card.Title>
                     <Card.Text>
                     Some quick example text to build on the card title and make up the
                     bulk of the card's content.
@@ -32,9 +32,9 @@ const AboutUs = () => {
                 </Card.Body>
             </Card>
             <Card style={{ width: '18rem', margin: '10px' }}>
-                <Card.Img variant="top" src="src/assets/Images/cookie.webp" />
+                <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Herbstlandschaft_%28am_Rebhang%29.jpg/270px-Herbstlandschaft_%28am_Rebhang%29.jpg" />
                 <Card.Body>
-                    <Card.Title>Cookies</Card.Title>
+                    <Card.Title>Paisaje 3</Card.Title>
                     <Card.Text>
                     Some quick example text to build on the card title and make up the
                     bulk of the card's content.
